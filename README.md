@@ -2,7 +2,6 @@
 Introducción
 En este notebook se utiliza la técnica de regresión lineal para estimar el precio en UF de las casas usadas en la Región Metropolitana de Chile, basándose en un dataset de Kaggle que contiene información sobre el tipo, la superficie, el número de habitaciones, el número de baños, el año de construcción y la ubicación de las propiedades.
 
-Herramientas y lenguajes
 Para crear este notebook se usaron las siguientes herramientas y lenguajes:
 
 Python 3.9
@@ -10,7 +9,6 @@ pandas
 matplotlib
 scikit-learn
 seaborn
-Detalles del proyecto
 
 ## El proyecto se divide en las siguientes secciones: ##
 
